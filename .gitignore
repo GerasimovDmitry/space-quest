@@ -31,8 +31,6 @@ frontend/dist/out-tsc
 # Only exists if Bazel was run
 frontend/bazel-out
 
-# static BE
-src/main/resources/static
 
 # dependencies
 frontend/node_modules
